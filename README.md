@@ -5,3 +5,6 @@ Evolution and Ecology biology class (BIS 2B).
 ## To do
 * Fix up style? Split into functions? 
 * Add comments explaining commented-out code 
+
+## Notes for me
+`find . -name ".DS_Store"`
